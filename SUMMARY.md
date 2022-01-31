@@ -132,7 +132,7 @@
     +   [C# 多维数组](docs/prog/132.md)
     +   [C# 交错数组](docs/prog/133.md)
     +   [C# 字符串](docs/prog/134.md)
-    +   [c# `StringBuilder`](docs/prog/135.md)
+    +   [C# `StringBuilder`](docs/prog/135.md)
     +   [C# `if`语句](docs/prog/136.md)
     +   [C# `if-else`语句](docs/prog/137.md)
     +   [C# `else if`语句](docs/prog/138.md)
