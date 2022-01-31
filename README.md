@@ -4,6 +4,8 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
+> 阶段：机翻（1）
+> 
 > 以斗争求团结则团结存，以妥协求团结则团结亡。——教员
 
 * [在线阅读](https://tgw.apachecn.org)
