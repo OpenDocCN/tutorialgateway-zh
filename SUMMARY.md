@@ -877,7 +877,7 @@
     +   [C 程序：计算第`n`个斐波那契数](docs/example/0259.md)
     +   [C 程序：计算斐波那契数列和](docs/example/0260.md)
     +   [C 程序：求数列和`1² + 2² + 3² + ... + n²`](docs/example/0261.md)
-    +   [C 程序：求数列和`1³ + 2³ + 3² + ... + n³`](docs/example/0262.md)
+    +   [C 程序：求数列和`1³ + 2³ + 3³ + ... + n³`](docs/example/0262.md)
     +   [C 程序：求等比数列和](docs/example/0263.md)
     +   [C 程序：求等差数列和](docs/example/0264.md)
     +   [C 程序：显示图案和形状](docs/example/0265.md)
